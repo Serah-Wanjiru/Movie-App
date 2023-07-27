@@ -1,0 +1,11 @@
+.images{
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+
+}
+.img{
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+}
